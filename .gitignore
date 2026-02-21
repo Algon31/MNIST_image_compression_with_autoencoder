@@ -1,0 +1,10 @@
+# Anaconda
+./data/
+__pycache__/
+*.pkl
+*.h5
+checkpoints/
+models/
+.env
+.venv/
+./MNIST/raw
